@@ -5,7 +5,7 @@ faturamento = float(faturamento)  # 800
 
 print(faturamento)
 
-custo = 300
+custo = 400
 
 lucro = faturamento - custo
 print(f"O faturamento foi de {faturamento} e o lucro foi de {lucro}")
