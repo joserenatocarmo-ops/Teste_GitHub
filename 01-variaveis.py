@@ -1,6 +1,6 @@
 
 faturamento = 997 # numeros inteiros -> int
-custo = 400
+custo = 500
 imposto = 0.2 # float
 lucro1 = faturamento - custo - imposto * faturamento
 
