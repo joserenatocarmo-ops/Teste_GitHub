@@ -1,5 +1,6 @@
 # for item in lista:
-#    execute isso para cada item
+#execute isso para cada item
+    
 
 lista_produtos = ["iphone", "mac", "apple watch", "airpod"]
 
